@@ -7,7 +7,7 @@ let soma=prova1+prova2+redacao;
 console.log("Total de pontos:", soma);
 
 if(soma>1500){
-    console.log("Você pode estudar na UFLA.");
+    console.log("Você pode estudar na UFLA.");  
 }else if(soma>=1000){
     console.log("Você pode estudar no Unilavras.");
 }else{
